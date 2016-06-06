@@ -1,0 +1,4 @@
+httpie
+Pygments
+requests
+websockets
